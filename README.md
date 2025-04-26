@@ -1,6 +1,5 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?logo=scikit-learn)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hartz-byte.Classifications-Logistic-Regression)
 
 # Iris Flower Classification with Logistic Regression
 
@@ -13,7 +12,7 @@ This repository showcases the classic **Iris flower classification** problem usi
 
 ## About the Dataset
 
-The [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) is one of the most famous datasets in machine learning and statistics. It consists of 150 samples of iris flowers with the following features:
+The [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) is one of the most famous machine learning and statistics datasets. It consists of 150 samples of iris flowers with the following features:
 
 - **Sepal Length** (cm)
 - **Sepal Width** (cm)
